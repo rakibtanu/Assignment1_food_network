@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.header_banner{
+    display: flex;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.half_width{
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.half_width_Top_padding{
+    padding-top: 100px;
+}
+.half_width h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.half_width p{
+    padding-bottom: 30px;
+    font-size: 18PX;
+}
+.half_width a{
+    text-decoration: none;
+    background-image: linear-gradient(#FB954B, #FE492E);
+    padding: 15px 20px;
+    color: white;
+    border-radius: 50px;
+    font-weight: bold;
+}
+.half_width img{
+    width: 100%;
+    
+}
+.banner_text_orange{
+    color: #FB934A;
+}
+.about_me{
+    display: flex;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+.my_recipe{
+    text-align: center;
+    padding: 50px 0px;
+}
+.my_recipe h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #676767;
+}
+.my_recipe P{
+    font-size: 18PX;
+}
+.food_item{
+    display: flex;
+    padding: 0px 80px;
+    padding-bottom: 100px;
+}
+.food_item_box{
+    width: 25%;
+    margin-left: 3.33%;
+    box-shadow: 5px 5px 20px grey;
+    padding: 20px;
+    border-radius: 20px;
+}
+.food_item_box img{
+    width: 100%;
+}
+.social_count{
+    display: flex;
+    padding: 0px 80px;
+    box-shadow: 5px 5px 20px grey;
+    text-align: center;
+}
+.social_box{
+    width: 33.33%;
+}
+.social_box h1{
+    font-size: 50px;
+}
+.footer_content{
+    background-color: #0b0d17;
+    padding: 50px 0px;
+    text-align: center;
+    margin-top: 100px;
+}
+.footer_content h1{
+    color: #333439;
+    font-size: 30px;   
+}
+.footer_content p{
+    color: white;
+    
+}
